@@ -1,0 +1,3 @@
+function showMessage() {
+alert("IoT Bank Monitoring System is working!");
+}
